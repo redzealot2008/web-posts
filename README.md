@@ -6,6 +6,8 @@
 [AMD, CMD, CommonJS和UMD](https://www.jianshu.com/p/bd4585b737d7)
 
 ### 后端
+#### Hibernate
+[@NotBlank @NotEmpty @NotNul @Pattern](https://www.cnblogs.com/goingforward/p/6803378.html)
 
 ### SEO
 [URL网址最后面要不要加斜杠](http://www.jspxcms.com/knowledge/309.html)
